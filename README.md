@@ -9,4 +9,13 @@
 
 4 -> free view but automatically on origin, hit again to enable/disable mouse
 
-" " -> for thrust effect, does the job but doesn't look great
+Movement Controls:
+
+Spacebar - vertical thruster
+
+Arrow Keys:
+
+Left: Moves negative x axis
+Right: Moves positive x axis
+Up: Moves position z axis
+Down: Moves negative z axis
